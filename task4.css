@@ -1,0 +1,14 @@
+
+.text {
+    border: 2px solid #ff5733;
+    padding: 10px;
+}
+
+.image {
+    border: 2px solid #3385ff; 
+}
+
+.list {
+    border: 2px solid #33ff57; 
+    padding: 10px;
+}
